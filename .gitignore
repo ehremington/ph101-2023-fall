@@ -1,0 +1,13 @@
+101-2019-fall/
+exams/
+images/
+figures/
+*~
+*.log
+*.aux
+*.synctex.gz
+*.out
+*.ipynb_checkpoints/
+*.autosave.xopp
+*.fdb_latexmk
+*.fls
